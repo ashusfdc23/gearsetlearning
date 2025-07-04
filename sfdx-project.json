@@ -5,8 +5,15 @@
       "default": true
     }
   ],
+<<<<<<< HEAD
   "name": "MySFDXProject",
   "namespace": "",
   "sfdcLoginUrl": "https://login.salesforce.com",
   "sourceApiVersion": "62.0"
+=======
+  "name": "TestingGearset",
+  "namespace": "",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "64.0"
+>>>>>>> f8e8bc9 (SFDC12: Added What Day picklist field, layout, and profile updates)
 }
